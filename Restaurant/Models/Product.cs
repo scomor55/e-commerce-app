@@ -14,7 +14,7 @@ namespace Restaurant.Models
 
         [NotMapped]
         public IFormFile? ImageFile { get; set; }
-        public string ImageUrl { get; set; }
+        public string ImageUrl { get; set; } = string.Empty;
 
         [ValidateNever]
         public Category? Category { get; set; }
