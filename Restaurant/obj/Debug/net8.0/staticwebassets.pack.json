@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\PC\\source\\repos\\Restaurant\\Restaurant\\wwwroot\\images\\chicken.png",
+      "PackagePath": "staticwebassets\\images\\chicken.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\Restaurant\\Restaurant\\wwwroot\\images\\meatballs.png",
+      "PackagePath": "staticwebassets\\images\\meatballs.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\Restaurant\\Restaurant\\wwwroot\\images\\taco.png",
+      "PackagePath": "staticwebassets\\images\\taco.png"
+    },
+    {
       "Id": "C:\\Users\\PC\\source\\repos\\Restaurant\\Restaurant\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
