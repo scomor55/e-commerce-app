@@ -35,8 +35,12 @@ namespace Restaurant.Controllers
                 return View(new Product());
             }else
             {
+                Product product = await products.GetByIdAsync(id, new QueryOptions<Product>
+                {
+                    Includes = "ProductIngredients.Ingredient, Category",
+                });
                 ViewBag.Operation = "Edit";
-                return View();
+                return View(product);
             }
         }
 

@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\PC\\source\\repos\\Restaurant\\Restaurant\\wwwroot\\images\\0bff2dfb-8f83-4093-a5cd-295cb90f56fc_taco.png",
+      "PackagePath": "staticwebassets\\images\\0bff2dfb-8f83-4093-a5cd-295cb90f56fc_taco.png"
+    },
+    {
       "Id": "C:\\Users\\PC\\source\\repos\\Restaurant\\Restaurant\\wwwroot\\images\\chicken.png",
       "PackagePath": "staticwebassets\\images\\chicken.png"
     },
