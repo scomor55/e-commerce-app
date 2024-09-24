@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1vNO5wNAZrB25xvBDH/955rPKO47+iWKIomVrmstZgQ=",
+  "Hash": "f1xean4W8Jur6YVD2ZzQ/VIv+t1TnRr6W5YN95mzCD8=",
   "Source": "Restaurant",
   "BasePath": "_content/Restaurant",
   "Mode": "Default",
@@ -1250,6 +1250,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\0bff2dfb-8f83-4093-a5cd-295cb90f56fc_taco.png"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\source\\repos\\Restaurant\\Restaurant\\wwwroot\\images\\a157658b-fe88-48ee-a1ac-ec9fea22e3af_taco.png",
+      "SourceId": "Restaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\Restaurant\\Restaurant\\wwwroot\\",
+      "BasePath": "_content/Restaurant",
+      "RelativePath": "images/a157658b-fe88-48ee-a1ac-ec9fea22e3af_taco.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\a157658b-fe88-48ee-a1ac-ec9fea22e3af_taco.png"
     },
     {
       "Identity": "C:\\Users\\PC\\source\\repos\\Restaurant\\Restaurant\\wwwroot\\images\\chicken.png",
